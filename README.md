@@ -9,4 +9,8 @@ The data that we will be using is the historical stock data for Amazon which was
 
 https://finance.yahoo.com/quote/AMZN/history?period1=863654400&period2=1693180800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 
+Below is an image of the two terminals streaming, one sending data from .csv, the other receiving, and then writing to a new.csv
+
+![A look at two terminals sending and receiving messages](./images/BonusTwoTerminalsStreaming.png)
+
 
