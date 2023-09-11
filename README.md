@@ -11,6 +11,6 @@ https://finance.yahoo.com/quote/AMZN/history?period1=863654400&period2=169318080
 
 Below is an image of the two terminals streaming, one sending data from .csv, the other receiving, and then writing to a new.csv
 
-![A look at two terminals sending and receiving messages](./images/BonusTwoTerminalsStreaming.png)
+![A look at two terminals sending and receiving messages](./images/Bonus2TerminalsStreaming.png)
 
 
